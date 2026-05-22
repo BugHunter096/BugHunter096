@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**BugHunter096/BugHunter096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Pelayo Alonso
 
-Here are some ideas to get you started:
+Higher Technician in Cross-Platform Application Development and Computer Science student at UNED.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently focused on Java development, desktop applications, databases and backend development.
+
+## Technologies
+
+Java · JavaFX · SQLite · Maven · Git · SQL · Python · C++
+
+## Featured Projects
+
+- **Swim Performance Tracker**: JavaFX application for managing swimmers, race times and performance progress.
+- **Vehicle Factory Management**: academic Java simulator built to apply object-oriented programming principles.
+
+## Currently
+
+- Studying Computer Science.
+- Improving my Java project portfolio.
+- Looking for junior developer roles or software development internships.
