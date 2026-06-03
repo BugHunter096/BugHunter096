@@ -8,7 +8,7 @@ I am currently focused on Java development, desktop applications, databases and 
 
 ## Technologies
 
-Java · JavaFX · SQLite · Maven · Git · SQL · Python · C++
+Java · C# · C++ # · JavaFX · SQLite · Maven · Git · SQL · Python
 
 ## Featured Projects
 
