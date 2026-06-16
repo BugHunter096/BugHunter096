@@ -4,11 +4,11 @@
 
 Higher Technician in Cross-Platform Application Development and Computer Science student at UNED.
 
-I am currently focused on Java development, desktop applications, databases and backend development.
+I am currently focused on Java and Python development, desktop applications, databases and backend development.
 
 ## Technologies
 
-Java · C# · C++ # · JavaFX · SQLite · Maven · Git · SQL · Python
+Java · C# · C++ · JavaFX · SQLite · Maven · Git · SQL · Python
 
 ## Featured Projects
 
